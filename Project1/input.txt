@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+function int sum(int a, int b) {
+	return a + b;
+}
+
+function int main() {
+	int a, b = 3, c, _d, e123, 123a, p[20];
+	a = 1;
+	const float d = 1.0;
+	double f = 1.0e+6, g = 3.41e-6;
+	complex i = 1 + 2i;
+	int d = sum(a, b);
+	while (a > 0) {
+		b = 1;
+	}
+	return 0;
+}
